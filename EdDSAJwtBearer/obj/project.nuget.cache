@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PCnpyLWlyEpaUPoDmhNWC7ZVT+P4qUYDgZMmfh6rv+rohOrQtEaR/JaDBCCSeKMO9Y4Dy4Ez8GB/ozUJc3mu/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andres.zabala\\source\\repos\\EdDSAJwtBearerAuthentication\\EdDSAJwtBearer\\EdDSAJwtBearer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andres.zabala\\.nuget\\packages\\portable.bouncycastle\\1.8.10\\portable.bouncycastle.1.8.10.nupkg.sha512"
+  ],
+  "logs": []
+}

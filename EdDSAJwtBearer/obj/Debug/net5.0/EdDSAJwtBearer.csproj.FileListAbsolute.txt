@@ -1,0 +1,5 @@
+C:\Users\andres.zabala\source\repos\EdDSAJwtBearerAuthentication\EdDSAJwtBearer\obj\Debug\net5.0\EdDSAJwtBearer.csproj.AssemblyReference.cache
+C:\Users\andres.zabala\source\repos\EdDSAJwtBearerAuthentication\EdDSAJwtBearer\obj\Debug\net5.0\EdDSAJwtBearer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres.zabala\source\repos\EdDSAJwtBearerAuthentication\EdDSAJwtBearer\obj\Debug\net5.0\EdDSAJwtBearer.AssemblyInfoInputs.cache
+C:\Users\andres.zabala\source\repos\EdDSAJwtBearerAuthentication\EdDSAJwtBearer\obj\Debug\net5.0\EdDSAJwtBearer.AssemblyInfo.cs
+C:\Users\andres.zabala\source\repos\EdDSAJwtBearerAuthentication\EdDSAJwtBearer\obj\Debug\net5.0\EdDSAJwtBearer.csproj.CoreCompileInputs.cache
